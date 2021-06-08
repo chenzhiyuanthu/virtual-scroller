@@ -93,4 +93,3 @@ const list = new VirtualList({
   },
   containerId: 'table-container'
 });
-
